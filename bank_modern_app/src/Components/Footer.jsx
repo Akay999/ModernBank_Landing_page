@@ -33,7 +33,7 @@ const Footer = () => (
 
     <div className="flex md:flex-row flex-col w-full justify-between items-center pt-6 border-t-[1px] border-t-[#3f3e45]">
       <p className="font-poppins font-normal text-white text-center text-[18px] leading-[27px]">
-        2022, Hoobank. All rights reserved.
+        2022, Hoobank. All rights reserved. cloned by Akay.
       </p>
 
       <div className="flex flex-row mt-6 md:mt-0">
